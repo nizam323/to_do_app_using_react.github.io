@@ -1,0 +1,1 @@
+html{height:100vh;display:flex;justify-content:center}.con{overflow-y:scroll;height:450px;width:700px}li{display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #6a6767}.inp-con{display:flex;width:700px;justify-content:center}.inp-con input{margin-right:10px;width:300px}i{margin-right:15px;font-size:20px;color:#f44;cursor:pointer}i:hover{color:red}
